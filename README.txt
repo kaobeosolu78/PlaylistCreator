@@ -1,3 +1,3 @@
-![Alt text](imgs/example.png)
+![Alt text](main/imgs/example.png)
 
 
